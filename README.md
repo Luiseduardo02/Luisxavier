@@ -1,2 +1,2 @@
 # LuisXavier
-.Hi, my name is Luis Xvier programming student
+Hi. my name is Luis Xvier programming studen
